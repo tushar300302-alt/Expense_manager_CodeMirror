@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api/expenses';
+const API_BASE_URL = 'https://expense-backend-neon.vercel.app/api/expenses';
 
 export const fetchExpenses = async () => {
     const response = await fetch(API_BASE_URL);
