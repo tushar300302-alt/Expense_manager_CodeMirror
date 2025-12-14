@@ -1,0 +1,7 @@
+/* Styling is handled by Material UI */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #0f2027 0%, #d0d0d0 50%, #616f74 100%);
+  min-height: 100vh;
+}
